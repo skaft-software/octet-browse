@@ -1,0 +1,327 @@
+{
+  "schema_version": 1,
+  "repository": "https://github.com/skaft-software/octet",
+  "revision": "6b0717548d420909b3ee991bf940011e578b12eb",
+  "source_path": "extensions/octet-browse",
+  "status": "staged-source-snapshot",
+  "files": [
+    {
+      "path": "CHANGELOG.md",
+      "source_path": "extensions/octet-browse/CHANGELOG.md",
+      "mode": "100644",
+      "sha256": "f3c3c8c349fb75d6cb35d2e539100ba8e74a0e9077f9226c61ee7848e736fc55"
+    },
+    {
+      "path": "CONNECTORS.md",
+      "source_path": "extensions/octet-browse/CONNECTORS.md",
+      "mode": "100644",
+      "sha256": "e41dfebf92b57d713c747cec064e3756ac65cc89828486f5e02c51efe9806107"
+    },
+    {
+      "path": "LICENSE",
+      "source_path": "extensions/octet-browse/LICENSE",
+      "mode": "100644",
+      "sha256": "043b63b2a2b0a52fdf7ac5364309806a1a0de497318c874a27b69497f9d030b7"
+    },
+    {
+      "path": "QUALIFICATION.md",
+      "source_path": "extensions/octet-browse/QUALIFICATION.md",
+      "mode": "100644",
+      "sha256": "7152dcbe057185ed7a5ad639d5f7a65509ef22ce470a852eb685005cb8435663"
+    },
+    {
+      "path": "README.md",
+      "source_path": "extensions/octet-browse/README.md",
+      "mode": "100644",
+      "sha256": "5dc2ccb1f2d93c00d7cf899e62bfc9b0dc48a59da0c8ba77da12e621f5ed507d"
+    },
+    {
+      "path": "REFERENCE.md",
+      "source_path": "extensions/octet-browse/REFERENCE.md",
+      "mode": "100644",
+      "sha256": "b6a920c25f87f62bf5a25515be5dd668de6f74a2fab6b33069f140b9c4e9f87d"
+    },
+    {
+      "path": "extension.py",
+      "source_path": "extensions/octet-browse/extension.py",
+      "mode": "100755",
+      "sha256": "a1237e643afc5097a6be2e4467028b5adf1f2976ec1e819d14dfe8309d496b78"
+    },
+    {
+      "path": "extension.toml",
+      "source_path": "extensions/octet-browse/extension.toml",
+      "mode": "100644",
+      "sha256": "3924d5d2a03f80f921a67ea95500a945da629924d7c215ad8501b6995d13b769"
+    },
+    {
+      "path": "octet_browse/__init__.py",
+      "source_path": "extensions/octet-browse/octet_browse/__init__.py",
+      "mode": "100644",
+      "sha256": "869467f438c4256327308082b8cbf8621d8250721dacb30fb4d82ada3ce36cd5"
+    },
+    {
+      "path": "octet_browse/adapters.py",
+      "source_path": "extensions/octet-browse/octet_browse/adapters.py",
+      "mode": "100644",
+      "sha256": "163f3dfb4706252d18027639a57debed6f1f536c312161eb84453e3dc4eb546d"
+    },
+    {
+      "path": "octet_browse/artifacts.py",
+      "source_path": "extensions/octet-browse/octet_browse/artifacts.py",
+      "mode": "100644",
+      "sha256": "7708a6a92bd153772d31f3c339904f0dcfbb75dc88f5ddfa94b5250401b45e0c"
+    },
+    {
+      "path": "octet_browse/controller.py",
+      "source_path": "extensions/octet-browse/octet_browse/controller.py",
+      "mode": "100644",
+      "sha256": "825621220d5afaf04dbf11575068a35d2b62cb8aa58e71e1e82fcc94e065f0e0"
+    },
+    {
+      "path": "octet_browse/paths.py",
+      "source_path": "extensions/octet-browse/octet_browse/paths.py",
+      "mode": "100644",
+      "sha256": "4ab866076f0400fc07e880c2fb9e0aa0cca6dc8fb2757433680399b07671973e"
+    },
+    {
+      "path": "octet_browse/presentation.py",
+      "source_path": "extensions/octet-browse/octet_browse/presentation.py",
+      "mode": "100644",
+      "sha256": "d1adb401716f0c4146fbe7a3efa9aaaa896aec22fa78060ebb4afe67faa0bcf6"
+    },
+    {
+      "path": "octet_browse/profile.py",
+      "source_path": "extensions/octet-browse/octet_browse/profile.py",
+      "mode": "100644",
+      "sha256": "f6a68e4fb0d53b3e9666a5294d149d9322335854ada63b2f7920feba1c40afaf"
+    },
+    {
+      "path": "octet_browse/runtime.py",
+      "source_path": "extensions/octet-browse/octet_browse/runtime.py",
+      "mode": "100644",
+      "sha256": "c17219a9f2f055dd4f4fb1de85a57f4397ab32e696ffbb1d81b3ce579cb37445"
+    },
+    {
+      "path": "octet_browse/safety.py",
+      "source_path": "extensions/octet-browse/octet_browse/safety.py",
+      "mode": "100644",
+      "sha256": "35b53e4b415311069796e12cfb94e424418423510f447e44b494b33aca47b5b8"
+    },
+    {
+      "path": "octet_browse/setup.py",
+      "source_path": "extensions/octet-browse/octet_browse/setup.py",
+      "mode": "100644",
+      "sha256": "73680955479b9715df95f6dbe44c143ac7fffd90f3c613bb587396f0fc35e39e"
+    },
+    {
+      "path": "octet_browse/snapshot.py",
+      "source_path": "extensions/octet-browse/octet_browse/snapshot.py",
+      "mode": "100644",
+      "sha256": "8d287351d292a93d94e73fa5cbf93fdca06abba00fe853ab1acdee9690bb84fb"
+    },
+    {
+      "path": "octet_browse/targeting.py",
+      "source_path": "extensions/octet-browse/octet_browse/targeting.py",
+      "mode": "100644",
+      "sha256": "1c72815a2bf2a7287a0cf0b270cd7d138b088b27929479c2301a494eb4765b19"
+    },
+    {
+      "path": "octet_browse/worker.py",
+      "source_path": "extensions/octet-browse/octet_browse/worker.py",
+      "mode": "100644",
+      "sha256": "8a59f37cff01787bb63335214080fe448e0949d6c2d1bc45a04803087b98a700"
+    },
+    {
+      "path": "presentation-fixtures/artifact-published.json",
+      "source_path": "extensions/octet-browse/presentation-fixtures/artifact-published.json",
+      "mode": "100644",
+      "sha256": "b39c47f99f063181348026a09a6046f985814a0d460379cdad68de4d1bc84de0"
+    },
+    {
+      "path": "presentation-fixtures/closed.json",
+      "source_path": "extensions/octet-browse/presentation-fixtures/closed.json",
+      "mode": "100644",
+      "sha256": "9a809a390c9b8016016a20f7fef89d1aea9ff2515fb1171967dee5a97e5bee77"
+    },
+    {
+      "path": "presentation-fixtures/consequential-confirmation.json",
+      "source_path": "extensions/octet-browse/presentation-fixtures/consequential-confirmation.json",
+      "mode": "100644",
+      "sha256": "b58b2aef07d974c4eba4ac9740e4e495769a7f291651028d3808612a232158a9"
+    },
+    {
+      "path": "presentation-fixtures/degraded-profile-lock.json",
+      "source_path": "extensions/octet-browse/presentation-fixtures/degraded-profile-lock.json",
+      "mode": "100644",
+      "sha256": "935bc8f58be20d9eb07292fdee8a63adcd3f2efdc69f44dd5aef86262216a2fb"
+    },
+    {
+      "path": "presentation-fixtures/installing.json",
+      "source_path": "extensions/octet-browse/presentation-fixtures/installing.json",
+      "mode": "100644",
+      "sha256": "d8a21e86d93adb4ffad7bba46324fae51282a684d8f60afc3e9e395bb26e43fb"
+    },
+    {
+      "path": "presentation-fixtures/navigation-running.json",
+      "source_path": "extensions/octet-browse/presentation-fixtures/navigation-running.json",
+      "mode": "100644",
+      "sha256": "bfa98f55abdecb516126f8f6aba23f3512ac4ddc1a2e6de2589f362180eac45f"
+    },
+    {
+      "path": "presentation-fixtures/not-set-up.json",
+      "source_path": "extensions/octet-browse/presentation-fixtures/not-set-up.json",
+      "mode": "100644",
+      "sha256": "eed025b626cfd36a785bba8b5eb06ec851b092c9de3dc087278fcdd2a102588e"
+    },
+    {
+      "path": "presentation-fixtures/open-tab-list-detail.json",
+      "source_path": "extensions/octet-browse/presentation-fixtures/open-tab-list-detail.json",
+      "mode": "100644",
+      "sha256": "d0aaec381d94a869f905dc7cd19550346134593a2edec0b5b95fb68a61d47701"
+    },
+    {
+      "path": "presentation-fixtures/ready.json",
+      "source_path": "extensions/octet-browse/presentation-fixtures/ready.json",
+      "mode": "100644",
+      "sha256": "6d59caed0b1194719f805dd97328bba8914aa468ba7a93f712ec20a3c892e042"
+    },
+    {
+      "path": "presentation-fixtures/restarted.json",
+      "source_path": "extensions/octet-browse/presentation-fixtures/restarted.json",
+      "mode": "100644",
+      "sha256": "9d50b12b866cb1fd697d9021d09948b7eb24cfa53a1615e601256bccf0b6d27b"
+    },
+    {
+      "path": "presentation-fixtures/setup-confirmation.json",
+      "source_path": "extensions/octet-browse/presentation-fixtures/setup-confirmation.json",
+      "mode": "100644",
+      "sha256": "680ef0deaccb40d13815e182624a81a0893e8dd764dc4ce8086441c64542b32f"
+    },
+    {
+      "path": "presentation-fixtures/stale-generation-cleared.json",
+      "source_path": "extensions/octet-browse/presentation-fixtures/stale-generation-cleared.json",
+      "mode": "100644",
+      "sha256": "a482747bf1b4566fd96fe31e392b6cf10b809a5ac4b229c40d139c4c20f399d2"
+    },
+    {
+      "path": "skills/octet-browse/SKILL.md",
+      "source_path": "extensions/octet-browse/skills/octet-browse/SKILL.md",
+      "mode": "100644",
+      "sha256": "96930d3336faad2c0066049c993df82d94f077938595eb1140fec2daab88a48c"
+    },
+    {
+      "path": "tests/__init__.py",
+      "source_path": "extensions/octet-browse/tests/__init__.py",
+      "mode": "100644",
+      "sha256": "7f843bbd0a97bec22a1255e41ef5c2084c60c36a7f89f4faac66b48d6d0da5ab"
+    },
+    {
+      "path": "tests/helpers.py",
+      "source_path": "extensions/octet-browse/tests/helpers.py",
+      "mode": "100644",
+      "sha256": "2ee599e80684db04281addbec730ad4b63ad54856a207cd2486eaf7c16904bd7"
+    },
+    {
+      "path": "tests/test_adapters.py",
+      "source_path": "extensions/octet-browse/tests/test_adapters.py",
+      "mode": "100644",
+      "sha256": "69168855e09386034ebdbf32500188260465340579627252fabb975bf87a5714"
+    },
+    {
+      "path": "tests/test_artifacts.py",
+      "source_path": "extensions/octet-browse/tests/test_artifacts.py",
+      "mode": "100644",
+      "sha256": "a8649e26f1f60bad4fe55e1b295140d1ad40b19bba35a554877735e21e97cd4e"
+    },
+    {
+      "path": "tests/test_background_tabs.py",
+      "source_path": "extensions/octet-browse/tests/test_background_tabs.py",
+      "mode": "100644",
+      "sha256": "8f0223159aae0f739e38b814072a7e8f44b870c4c2f27962c5699b45327e0ef1"
+    },
+    {
+      "path": "tests/test_menu.py",
+      "source_path": "extensions/octet-browse/tests/test_menu.py",
+      "mode": "100644",
+      "sha256": "9b4395cf4275442cfec19dfba18cad440404b7b97c881c22e2010854e92a0867"
+    },
+    {
+      "path": "tests/test_playwright_integration.py",
+      "source_path": "extensions/octet-browse/tests/test_playwright_integration.py",
+      "mode": "100644",
+      "sha256": "6bf8fa82645ddd7e1ded24c5e036f3434b34c318bc5ddf2572b646e41d8cbfc6"
+    },
+    {
+      "path": "tests/test_presentation_release.py",
+      "source_path": "extensions/octet-browse/tests/test_presentation_release.py",
+      "mode": "100644",
+      "sha256": "41cc32558ea35510a9e243e5e6fd91bf6e0d053c51e93acecd39603696bd5239"
+    },
+    {
+      "path": "tests/test_profile_setup.py",
+      "source_path": "extensions/octet-browse/tests/test_profile_setup.py",
+      "mode": "100644",
+      "sha256": "fbd9a444ee518e73b0bfbe7bbc7b27ff2eadcad7cd2f84709a04b7fdc2e5ec1b"
+    },
+    {
+      "path": "tests/test_protocol.py",
+      "source_path": "extensions/octet-browse/tests/test_protocol.py",
+      "mode": "100644",
+      "sha256": "4f18f98374c49c767689394f9b016b4b9f9eaec629e9f3b3d043d09c31a2c636"
+    },
+    {
+      "path": "tests/test_safety.py",
+      "source_path": "extensions/octet-browse/tests/test_safety.py",
+      "mode": "100644",
+      "sha256": "09c6bcefc475c6911e7947ba8550b2008999470abb6e69116fbfd090ae5935a2"
+    },
+    {
+      "path": "tests/test_snapshot.py",
+      "source_path": "extensions/octet-browse/tests/test_snapshot.py",
+      "mode": "100644",
+      "sha256": "45cef8ff523a505a97984cbe1c227c6b35486e6ecbb0b92847505ff5bcc51bdf"
+    },
+    {
+      "path": "tests/test_snapshot_targeting.py",
+      "source_path": "extensions/octet-browse/tests/test_snapshot_targeting.py",
+      "mode": "100644",
+      "sha256": "5fd7f00eb311fb7ccbfb9129c015611af259b4c84edc784eaeed3d20e91c4714"
+    },
+    {
+      "path": "tests/test_worker.py",
+      "source_path": "extensions/octet-browse/tests/test_worker.py",
+      "mode": "100644",
+      "sha256": "97f8c93212a53858bcfe96541dcba4eb50dcdd6807d9728558a10d731c4f1732"
+    },
+    {
+      "path": "vendor/octet_extension/__init__.py",
+      "source_path": "extensions/octet-browse/vendor/octet_extension/__init__.py",
+      "mode": "100644",
+      "sha256": "0ebf52828042e6acc2d632433284e690f0ac071759de37b7f5dab203f00ecfdd"
+    },
+    {
+      "path": "vendor/octet_extension/api_v03.py",
+      "source_path": "extensions/octet-browse/vendor/octet_extension/api_v03.py",
+      "mode": "100644",
+      "sha256": "c55f25f312ab1ebdc21ad95f245754988696786a6871295eeb5d39903f227220"
+    },
+    {
+      "path": "vendor/octet_extension/event_bus.py",
+      "source_path": "extensions/octet-browse/vendor/octet_extension/event_bus.py",
+      "mode": "100644",
+      "sha256": "d4f5b8474a32a17260734b6bd6b2ae1d2cb97dd241ea8b4ee8afb62de1d1c875"
+    },
+    {
+      "path": "vendor/octet_extension/extension.py",
+      "source_path": "extensions/octet-browse/vendor/octet_extension/extension.py",
+      "mode": "100644",
+      "sha256": "f441d23ac9e1943da285607d63f166225999569c8942b543706f791027f0ffdd"
+    },
+    {
+      "path": "vendor/octet_extension/protocol.py",
+      "source_path": "extensions/octet-browse/vendor/octet_extension/protocol.py",
+      "mode": "100644",
+      "sha256": "44eaa235b16cc4991c2ef4d695b466a3ce84fb22ea0b12ce3776bebaa7448e02"
+    }
+  ]
+}
